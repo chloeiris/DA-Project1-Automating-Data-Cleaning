@@ -28,4 +28,8 @@ primary key (`index_sql`),
 `d482xta` varchar(255),
 );
 
+-- modificar el "error" por "null"
+
+
+
 
