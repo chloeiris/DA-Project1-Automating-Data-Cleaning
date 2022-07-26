@@ -157,6 +157,12 @@ update `data_sql`
 set `d482xta` = NULL
 where `d482xta`= "ERROR";
 
+-- eliminamos la columna d482xta
+alter table data_sql
+drop column d482xta;
+
+
+
 
 
 
