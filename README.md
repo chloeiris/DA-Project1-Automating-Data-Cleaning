@@ -1,1 +1,3 @@
 # PROJECT-DA-PROMO-B-MODULE-1-TEAM-2
+
+Este repositorio contiene información del proceso activo de transformación digital para nuestro cliente Adalab, en el cual hemos testeado nuestras capacidades como Analistas de Datos. En todo el proceso nos hemos encargado de limpiar una serie de archivos, específicamente archivos txt, xml y de una BBDD que ha permitido la lectura más clara y con mejor visualización de los datos proporcionados, para ayudar a Adalab a mejores tomas de decisiones y así mejorar la eficiencia de la empresa. Durante toda la ejecución del proyecto hemos trabajado bajo la filosofía Agile.
