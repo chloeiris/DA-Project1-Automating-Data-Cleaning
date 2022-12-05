@@ -1,3 +1,12 @@
-# PROJECT-DA-PROMO-B-MODULE-1-TEAM-2
+# DA-Project1-Automating-Data-Cleaning
 
-Luego de nuestra reunión con nuestro cliente (Adalab), hemos recibido la información necesaria para iniciar el proceso activo de transformación digital para nuestro cliente. En este repositorio hemos recopilado lo necesario para llevar el control de todo nuestro trabajo, en el cual hemos testeado nuestras capacidades como Analistas de Datos. En todo el proceso nos hemos encargado de limpiar una serie de archivos, específicamente archivos txt, xml y de una BBDD que ha permitido la lectura más clara y con mejor visualización de los datos proporcionados, con resultados que permiten toma de decisiones que conllevan a mejorar la eficiencia, eficacia y productividad de la empresa. Durante toda la ejecución del proyecto hemos trabajado con las mejores y más exigentes herramientas como Python y SQL y bajo la inigualable filosofía Agile.
+This project is all about Automating a Data Cleaning Process in Python ad SQL.
+
+1. We started by listening to our client's requests
+2. Then we CREATED A DATABASE with the necessary tables 
+3. Created two ready-for-pipeline Classes with methods to transform the incoming data (.txt and .xml formats)
+4. Created a pipeline Class to insert clean data into the database.
+
+The result was a new SQL database with clean data and Python pipeline classes to continue storing company data for further analysis.
+
+Done by me & my Adalab team, Team Totoro
