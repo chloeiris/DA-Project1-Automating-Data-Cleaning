@@ -11,4 +11,4 @@ The result was a new SQL database with clean data and Python pipeline classes to
 
 Done by me & my Adalab team, Team Totoro
 
-* If files are too big to view from github, you can go to this site and paste the github link!: https://nbviewer.org
+'* If files are too big to view from github, you can go to this site and paste the github link!: https://nbviewer.org
