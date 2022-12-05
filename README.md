@@ -1,5 +1,6 @@
 # DA-Project1-Automating-Data-Cleaning
 
+* If files are too big to view from github, you can go to this site and paste the github link!: https://nbviewer.org
 This project is all about Automating a Data Cleaning Process in Python ad SQL.
 
 1. We started by listening to our client's requests
