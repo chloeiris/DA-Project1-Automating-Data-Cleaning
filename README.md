@@ -1,4 +1,5 @@
 # DA-Project1-Automating-Data-Cleaning
+![RIDER](https://www.comunicare.es/wp-content/uploads/2021/07/transformacion-digital.jpg)
 
 This project is all about Automating a Data Cleaning Process in Python ad SQL.
 
